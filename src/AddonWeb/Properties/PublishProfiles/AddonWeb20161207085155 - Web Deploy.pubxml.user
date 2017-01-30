@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAl03Lg33jk0a7Qrkp2+g8tgAAAAACAAAAAAAQZgAAAAEAACAAAAAfhPylwohjSk1fHijJ5T2Ysfe4BCzoarA7FlhszL8ISgAAAAAOgAAAAAIAACAAAAAaVFkm7qefNXueDgOZWY7SL6wD9Jc+OinLYSaPWTuK4oAAAABy+iiNL9osfEJlluk9LhO190aZlo7unwTgY9bhkEmnDxUHk2+zoxL3GNbAB/+rNbk0cWxvX7n1gRnOWKBiloJ25Ge1nkPttGnY/mSUjjo4r7G9ZQ+Ld3fN3HeWu1iJvtLcf2FcXzoR692StWQ2wynFwit1kjJaWg2XaM/0peO0aEAAAAAUfMV/FbWrb+/cr80s69mlXpErszctMVOL4ktc4jBseDuiwin4TXKv+M0U6fJlIGsAOdQrhBQfjwrTJv82WNSQ</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:addondbserver.database.windows.net,1433;Initial Catalog=AddonWeb20170107121824_db;User Id=adminuser@addondbserver;Password=@$h@$elv@1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EfMigrations Include="AddonWeb.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:addondbserver.database.windows.net,1433;Initial Catalog=AddonWeb20170107121824_db;User Id=adminuser@addondbserver;Password=@$h@$elv@1</Value>
+    </EfMigrations>
+  </ItemGroup>
+</Project>

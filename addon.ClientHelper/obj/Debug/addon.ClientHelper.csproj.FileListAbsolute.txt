@@ -1,0 +1,6 @@
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\obj\Debug\addon.ClientHelper.csprojResolveAssemblyReference.cache
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\bin\Debug\addon.ClientHelper.dll
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\bin\Debug\addon.ClientHelper.pdb
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\obj\Debug\addon.ClientHelper.dll
+C:\Users\Tamil\Documents\Visual Studio 2015\Projects\AddonWeb\addon.ClientHelper\obj\Debug\addon.ClientHelper.pdb
